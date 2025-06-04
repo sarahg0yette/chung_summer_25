@@ -1,21 +1,25 @@
 Candidate_1,Candidate_2,Candidate_3,Candidate_4,Candidate_5,Weight
-217572,217796,219978,219469,218491,231
-219469,219978,217572,217796,218491,199
-217572,219978,217796,219469,218491,163
-219978,217572,217796,219469,218491,155
-219978,219469,218491,217796,217572,150
-217572,219978,219469,217796,218491,147
-217572,219978,217796,218491,219469,137
-217572,219978,219469,218491,217796,128
-217572,217796,218491,219469,219978,115
-217796,217572,219978,219469,218491,107
-218491,219469,219978,217572,217796,76
-219978,217572,217796,218491,219469,75
-219469,218491,217796,219978,217572,53
-218491,219469,219978,217796,217572,45
-219469,218491,217796,217572,219978,37
-217796,218491,219469,219978,217572,31
-218491,219469,217796,217572,219978,17
-218491,219469,217796,219978,217572,12
-218491,217796,217572,219978,219469,9
-218491,217796,219469,219978,217572,6
+Garcia (#4),Wiley (#3),Stringer (#5),Adams (#1),Yang (#2),350
+Garcia (#4),Wiley (#3),Stringer (#5),Yang (#2),Adams (#1),303
+Garcia (#4),Stringer (#5),Wiley (#3),Adams (#1),Yang (#2),257
+Adams (#1),Yang (#2),Wiley (#3),Garcia (#4),Stringer (#5),253
+Garcia (#4),Wiley (#3),Yang (#2),Adams (#1),Stringer (#5),251
+Wiley (#3),Garcia (#4),Stringer (#5),Adams (#1),Yang (#2),248
+Adams (#1),Yang (#2),Wiley (#3),Stringer (#5),Garcia (#4),240
+Garcia (#4),Stringer (#5),Wiley (#3),Yang (#2),Adams (#1),230
+Wiley (#3),Garcia (#4),Stringer (#5),Yang (#2),Adams (#1),230
+Garcia (#4),Wiley (#3),Yang (#2),Stringer (#5),Adams (#1),209
+Wiley (#3),Garcia (#4),Yang (#2),Adams (#1),Stringer (#5),173
+Wiley (#3),Garcia (#4),Yang (#2),Stringer (#5),Adams (#1),167
+Yang (#2),Adams (#1),Wiley (#3),Garcia (#4),Stringer (#5),114
+Wiley (#3),Yang (#2),Garcia (#4),Adams (#1),Stringer (#5),101
+Wiley (#3),Yang (#2),Adams (#1),Garcia (#4),Stringer (#5),98
+Yang (#2),Wiley (#3),Garcia (#4),Adams (#1),Stringer (#5),85
+Yang (#2),Adams (#1),Wiley (#3),Stringer (#5),Garcia (#4),78
+Wiley (#3),Yang (#2),Garcia (#4),Stringer (#5),Adams (#1),77
+Stringer (#5),Garcia (#4),Wiley (#3),Yang (#2),Adams (#1),77
+Yang (#2),Wiley (#3),Adams (#1),Garcia (#4),Stringer (#5),77
+Stringer (#5),Garcia (#4),Wiley (#3),Adams (#1),Yang (#2),76
+Wiley (#3),Yang (#2),Adams (#1),Stringer (#5),Garcia (#4),75
+Yang (#2),Wiley (#3),Garcia (#4),Stringer (#5),Adams (#1),69
+Yang (#2),Wiley (#3),Adams (#1),Stringer (#5),Garcia (#4),58

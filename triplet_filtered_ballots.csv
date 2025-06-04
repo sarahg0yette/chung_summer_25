@@ -1,0 +1,75 @@
+Candidate_1,Candidate_2,Candidate_3,Candidate_4,Candidate_5,Weight
+Adams (#1),,,,,64274
+Yang (#2),,,,,20566
+Wiley (#3),,,,,12771
+Garcia (#4),,,,,10258
+Adams (#1),Yang (#2),,,,9378
+Wiley (#3),Garcia (#4),,,,6709
+Stringer (#5),,,,,6402
+Yang (#2),Adams (#1),,,,5376
+Garcia (#4),Wiley (#3),,,,5147
+,,,,,3336
+Garcia (#4),Stringer (#5),,,,2925
+Wiley (#3),Garcia (#4),Stringer (#5),,,2689
+Garcia (#4),Wiley (#3),Stringer (#5),,,2617
+,,,,,2526
+,,,,,2325
+,,,,,2026
+Stringer (#5),Garcia (#4),,,,1915
+Garcia (#4),Stringer (#5),Wiley (#3),,,1853
+Garcia (#4),Wiley (#3),Yang (#2),,,1745
+Wiley (#3),Garcia (#4),Yang (#2),,,1584
+Wiley (#3),Yang (#2),,,,1482
+Adams (#1),Yang (#2),Wiley (#3),,,1113
+Yang (#2),Wiley (#3),,,,1092
+,,,,,978
+Stringer (#5),Garcia (#4),Wiley (#3),,,933
+,,,,,766
+,,,,,529
+Wiley (#3),Yang (#2),Garcia (#4),,,527
+Garcia (#4),Wiley (#3),Stringer (#5),Yang (#2),,511
+Yang (#2),Wiley (#3),Garcia (#4),,,500
+,,,,,484
+Wiley (#3),Yang (#2),Adams (#1),,,467
+Wiley (#3),Garcia (#4),Stringer (#5),Yang (#2),,466
+,,,,,369
+Yang (#2),Adams (#1),Wiley (#3),,,357
+Garcia (#4),Wiley (#3),Stringer (#5),Adams (#1),Yang (#2),350
+Garcia (#4),Stringer (#5),Wiley (#3),Yang (#2),,323
+Garcia (#4),Wiley (#3),Yang (#2),Adams (#1),,320
+Yang (#2),Wiley (#3),Adams (#1),,,304
+Garcia (#4),Wiley (#3),Stringer (#5),Yang (#2),Adams (#1),303
+Garcia (#4),Wiley (#3),Yang (#2),Stringer (#5),,278
+Garcia (#4),Stringer (#5),Wiley (#3),Adams (#1),Yang (#2),257
+Adams (#1),Yang (#2),Wiley (#3),Garcia (#4),Stringer (#5),253
+Garcia (#4),Wiley (#3),Yang (#2),Adams (#1),Stringer (#5),251
+Wiley (#3),Garcia (#4),Stringer (#5),Adams (#1),Yang (#2),248
+Wiley (#3),Garcia (#4),Yang (#2),Adams (#1),,247
+Adams (#1),Yang (#2),Wiley (#3),Stringer (#5),Garcia (#4),240
+Garcia (#4),Stringer (#5),Wiley (#3),Yang (#2),Adams (#1),230
+Wiley (#3),Garcia (#4),Stringer (#5),Yang (#2),Adams (#1),230
+Garcia (#4),Wiley (#3),Yang (#2),Stringer (#5),Adams (#1),209
+Wiley (#3),Garcia (#4),Yang (#2),Stringer (#5),,189
+Wiley (#3),Garcia (#4),Yang (#2),Adams (#1),Stringer (#5),173
+Wiley (#3),Garcia (#4),Yang (#2),Stringer (#5),Adams (#1),167
+Adams (#1),Yang (#2),Wiley (#3),Garcia (#4),,158
+Stringer (#5),Garcia (#4),Wiley (#3),Yang (#2),,117
+Yang (#2),Adams (#1),Wiley (#3),Garcia (#4),Stringer (#5),114
+Wiley (#3),Yang (#2),Garcia (#4),Adams (#1),Stringer (#5),101
+Wiley (#3),Yang (#2),Adams (#1),Garcia (#4),Stringer (#5),98
+Wiley (#3),Yang (#2),Garcia (#4),Adams (#1),,94
+Yang (#2),Wiley (#3),Garcia (#4),Adams (#1),Stringer (#5),85
+Yang (#2),Wiley (#3),Garcia (#4),Adams (#1),,80
+Yang (#2),Adams (#1),Wiley (#3),Stringer (#5),Garcia (#4),78
+Wiley (#3),Yang (#2),Adams (#1),Garcia (#4),,78
+Wiley (#3),Yang (#2),Garcia (#4),Stringer (#5),Adams (#1),77
+Stringer (#5),Garcia (#4),Wiley (#3),Yang (#2),Adams (#1),77
+Yang (#2),Wiley (#3),Adams (#1),Garcia (#4),Stringer (#5),77
+Stringer (#5),Garcia (#4),Wiley (#3),Adams (#1),Yang (#2),76
+Wiley (#3),Yang (#2),Adams (#1),Stringer (#5),Garcia (#4),75
+Wiley (#3),Yang (#2),Garcia (#4),Stringer (#5),,74
+Yang (#2),Wiley (#3),Garcia (#4),Stringer (#5),,69
+Yang (#2),Wiley (#3),Garcia (#4),Stringer (#5),Adams (#1),69
+Yang (#2),Adams (#1),Wiley (#3),Garcia (#4),,65
+Yang (#2),Wiley (#3),Adams (#1),Stringer (#5),Garcia (#4),58
+Yang (#2),Wiley (#3),Adams (#1),Garcia (#4),,53
