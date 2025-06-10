@@ -1,0 +1,27 @@
+Candidate_1,Candidate_2,Candidate_3,Candidate_4,Weight
+Palin (#1),,,,20873.0
+Palin (#1),Begich (#2),,,21312.0
+Palin (#1),Begich (#2),Pelota (#3),,9292.0
+Palin (#1),Begich (#2),Pelota (#3),Write-In (#4),277.0
+Begich (#2),,,,10883.0
+Begich (#2),Palin (#1),,,17889.0
+Begich (#2),Palin (#1),Pelota (#3),,6211.0
+Begich (#2),Palin (#1),Pelota (#3),Write-In (#4),178.0
+Begich (#2),Pelota (#3),,,6333.0
+Begich (#2),Pelota (#3),Palin (#1),,6511.0
+Begich (#2),Pelota (#3),Palin (#1),Write-In (#4),130.0
+Begich (#2),Pelota (#3),Write-In (#4),,521.0
+Begich (#2),Pelota (#3),Write-In (#4),Palin (#1),744.0
+Pelota (#3),,,,20925.0
+Pelota (#3),Begich (#2),,,22775.0
+Pelota (#3),Begich (#2),Palin (#1),,14643.0
+Pelota (#3),Begich (#2),Palin (#1),Write-In (#4),294.0
+Pelota (#3),Begich (#2),Write-In (#4),,2014.0
+Pelota (#3),Begich (#2),Write-In (#4),Palin (#1),1916.0
+Pelota (#3),Write-In (#4),,,3200.0
+Pelota (#3),Write-In (#4),Begich (#2),,2169.0
+Pelota (#3),Write-In (#4),Begich (#2),Palin (#1),2387.0
+Write-In (#4),,,,537.0
+Write-In (#4),Pelota (#3),,,227.0
+Write-In (#4),Pelota (#3),Begich (#2),,242.0
+Write-In (#4),Pelota (#3),Begich (#2),Palin (#1),386.0
